@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"expectedOnAdd" : "GiselaDecuzzi 7/9/2010 17:06",
+		"expectedOnCollect" : "GuillermoPolito 8/23/2013 14:27",
+		"expectedPrintString" : "PabloTesone 1/26/2014 20:48",
+		"setUp" : "GuillermoPolito 8/23/2013 14:26" } }

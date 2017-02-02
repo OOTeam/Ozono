@@ -1,0 +1,3 @@
+styles
+headingStyleSheet
+	^self subclassResponsibility.

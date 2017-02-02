@@ -1,0 +1,3 @@
+labels
+courseLabel
+	^'Curso' translated.

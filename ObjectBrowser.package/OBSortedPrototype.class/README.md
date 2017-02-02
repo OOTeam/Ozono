@@ -1,0 +1,1 @@
+I am a sorted collection factory. My instances can create sorted collections and are used as prototypes in the lesson workspace.

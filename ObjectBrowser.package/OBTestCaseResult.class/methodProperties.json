@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : "GuillermoPolito 10/27/2010 23:13",
+		"color" : "GuillermoPolito 10/27/2010 23:08",
+		"errors" : "GuillermoPolito 10/27/2010 23:10",
+		"failures" : "GuillermoPolito 10/27/2010 23:11",
+		"hasErrors" : "GuillermoPolito 10/27/2010 23:05",
+		"hasFailures" : "GuillermoPolito 10/27/2010 23:08",
+		"printString" : "GiselaDecuzzi 9/2/2012 22:06",
+		"results" : "GuillermoPolito 10/27/2010 23:06",
+		"succeededTests" : "GuillermoPolito 10/27/2010 23:11" } }

@@ -1,0 +1,4 @@
+pharo-interaction
+removeClassFromSystem
+
+	OBPharoReflection uniqueInstance destroyClassOf: self baseObject

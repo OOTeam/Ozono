@@ -1,0 +1,4 @@
+compiling
+parserClass
+
+	^ class parserClass.

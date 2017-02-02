@@ -1,0 +1,1 @@
+I am the model of the lesson list in the lesson browser window.

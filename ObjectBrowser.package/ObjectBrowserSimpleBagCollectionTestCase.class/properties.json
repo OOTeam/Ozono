@@ -1,0 +1,16 @@
+{
+	"category" : "ObjectBrowser-Tests",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "OBSimpleCollectionTrait classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ObjectBrowserSimpleBagCollectionTestCase",
+	"pools" : [
+		 ],
+	"super" : "ObjectBrowserSimpleCollectionTestCase",
+	"traitcomposition" : "OBSimpleCollectionTrait - {#testPrintString}",
+	"type" : "normal" }

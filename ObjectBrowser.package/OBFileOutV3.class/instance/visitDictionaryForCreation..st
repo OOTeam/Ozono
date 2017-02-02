@@ -1,0 +1,4 @@
+visiting
+visitDictionaryForCreation: anObject
+
+	self visitCollectionForCreation: anObject

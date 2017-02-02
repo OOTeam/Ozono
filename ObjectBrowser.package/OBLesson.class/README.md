@@ -1,0 +1,1 @@
+I am a loop lesson. I contain the objects the lesson have, the tests and workspaces.

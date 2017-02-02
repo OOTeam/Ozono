@@ -1,0 +1,3 @@
+accessing
+exportDiagram
+	self lesson exportDiagram

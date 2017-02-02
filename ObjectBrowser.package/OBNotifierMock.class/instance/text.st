@@ -1,0 +1,3 @@
+mock
+text
+	^code.

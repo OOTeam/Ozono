@@ -1,0 +1,28 @@
+{
+	"category" : "ObjectBrowser-UILesson",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"lesson",
+		"selectedObjectBrowserVariable",
+		"selectedObjectBrowserSelector",
+		"selectedObjectAttribute",
+		"window",
+		"organization",
+		"selectedItem",
+		"selectedWorkspace",
+		"dependants",
+		"objectSelectionInterested",
+		"selectedTest",
+		"selectedDerreferencedObject",
+		"selectedTabIndex",
+		"selectedPage",
+		"selectedObjectMethod" ],
+	"name" : "OBLessonModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

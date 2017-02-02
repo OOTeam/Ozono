@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-UILesson",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"workspace" ],
+	"name" : "OBWorkspaceWindow",
+	"pools" : [
+		 ],
+	"super" : "SystemWindow",
+	"type" : "normal" }

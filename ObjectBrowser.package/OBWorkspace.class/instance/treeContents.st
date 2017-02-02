@@ -1,0 +1,3 @@
+accessing
+treeContents
+	^OrderedCollection new

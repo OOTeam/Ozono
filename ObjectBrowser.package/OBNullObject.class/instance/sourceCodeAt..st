@@ -1,0 +1,3 @@
+methods
+sourceCodeAt: aSelector 
+	^''

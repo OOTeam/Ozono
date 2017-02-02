@@ -1,0 +1,19 @@
+{
+	"category" : "ObjectBrowser-PDFGeneration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"author",
+		"course",
+		"path",
+		"teacher" ],
+	"commentStamp" : "PabloTesone 2/7/2014 11:54",
+	"instvars" : [
+		"lesson",
+		"filename",
+		"date" ],
+	"name" : "OBLessonToPDF",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

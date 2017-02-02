@@ -1,0 +1,3 @@
+methods
+isRedefined: aSelector
+	^false

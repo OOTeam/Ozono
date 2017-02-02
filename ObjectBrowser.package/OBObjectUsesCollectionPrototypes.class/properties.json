@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pepita" ],
+	"name" : "OBObjectUsesCollectionPrototypes",
+	"pools" : [
+		 ],
+	"super" : "OBTestCase",
+	"type" : "normal" }

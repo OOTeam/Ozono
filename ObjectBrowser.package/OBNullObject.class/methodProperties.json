@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "GuillermoPolito 8/29/2013 21:33",
+		"actionsForAttributeListWith:" : "GermanLeiva 7/9/2010 18:33",
+		"actionsForObjectBrowserReferencesList" : "GuillermoPolito 8/22/2013 20:09",
+		"addAttributeNamed:" : "GuillermoPolito 8/22/2013 20:44",
+		"addInversePrototypeRelationship:" : "GuillermoPolito 3/21/2010 14:37",
+		"addPrototypeRelationshipTo:in:" : "GuillermoPolito 10/27/2010 14:16",
+		"allAttributeNames" : "GuillermoPolito 8/22/2013 20:53",
+		"attributes" : "GuillermoPolito 8/22/2013 20:44",
+		"compileMethod:notifying:" : "GuillermoPolito 6/19/2011 16:55",
+		"includesSelector:" : "GuillermoPolito 8/22/2013 22:42",
+		"isNil" : "GAP 11/15/2009 17:25",
+		"menu:" : "GuillermoPolito 9/25/2010 21:26",
+		"methods" : "GAP 11/15/2009 17:19",
+		"relationWith:" : "GuillermoPolito 8/23/2013 12:36",
+		"removeFromSystem" : "GAP 11/15/2009 17:21",
+		"sourceCodeAt:" : "GuillermoPolito 6/21/2010 19:09" } }

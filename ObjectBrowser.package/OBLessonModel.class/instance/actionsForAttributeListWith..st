@@ -1,0 +1,3 @@
+accessing
+actionsForAttributeListWith: selectedAttribute
+	^self selectedObject actionsForAttributeListWith: selectedAttribute

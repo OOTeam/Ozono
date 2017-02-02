@@ -1,0 +1,3 @@
+attributes
+hasAttributeNamed: anAttributeName
+	^ false

@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultErrorHandler" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"block" ],
+	"name" : "OBErrorHandler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

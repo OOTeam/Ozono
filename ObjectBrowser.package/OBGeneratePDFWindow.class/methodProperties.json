@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"newOnLesson:" : "PabloTesone 2/6/2014 15:29" },
+	"instance" : {
+		"accept" : "PabloTesone 2/6/2014 11:49",
+		"buildAuthor:height:" : "PabloTesone 2/6/2014 11:28",
+		"buildButtons:height:" : "PabloTesone 2/6/2014 15:32",
+		"buildCourse:height:" : "PabloTesone 2/6/2014 11:28",
+		"buildTeacher:height:" : "PabloTesone 2/6/2014 11:28",
+		"buildTextEntry:withLabel:set:get:height:" : "PabloTesone 2/6/2014 11:27",
+		"cancel" : "PabloTesone 2/6/2014 11:42",
+		"createView" : "PabloTesone 2/6/2014 11:39",
+		"generate" : "AlfredoSanzo 8/24/2014 17:57",
+		"openInWorld" : "PabloTesone 2/6/2014 11:25",
+		"pdfGenerationSuccessMessage" : "AlfredoSanzo 8/24/2014 17:57" } }

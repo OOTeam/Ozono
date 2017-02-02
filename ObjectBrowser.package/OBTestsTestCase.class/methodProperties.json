@@ -1,0 +1,6 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "AlfredoSanzo 3/4/2014 19:28",
+		"testReferenceAreNotClearedAfterTestCase" : "AlfredoSanzo 3/4/2014 19:29" } }

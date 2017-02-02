@@ -1,0 +1,3 @@
+labels
+authorLabel
+	^'Autor' translated.

@@ -1,0 +1,4 @@
+methods
+removeMethod: aSelector
+
+	self signalNotModificableCollection

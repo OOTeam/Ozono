@@ -1,0 +1,4 @@
+attributes
+removeAttribute: variableName
+
+	self signalNotModificableCollection

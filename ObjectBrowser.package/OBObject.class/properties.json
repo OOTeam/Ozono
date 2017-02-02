@@ -1,0 +1,16 @@
+{
+	"category" : "ObjectBrowser-Objects",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TOBObject classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"_metaObject" ],
+	"name" : "OBObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "TOBObject",
+	"type" : "normal" }

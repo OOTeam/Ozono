@@ -1,0 +1,4 @@
+compiling
+instSize
+
+	^ class instSize

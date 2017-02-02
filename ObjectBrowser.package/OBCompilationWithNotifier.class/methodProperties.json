@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"mockNotifier" : "PabloTesone 1/26/2014 20:32",
+		"setUp" : "PabloTesone 1/21/2014 11:55",
+		"testUknownVariableIsUnknown" : "GuillermoPolito 9/16/2013 08:48",
+		"testWrittenUknownVariableAndAddedOnTheFlyAsInstance" : "PabloTesone 1/26/2014 20:28",
+		"testWrittenUknownVariableAndAddedOnTheFlyAsTemp" : "PabloTesone 1/26/2014 20:33",
+		"unknownVariableName" : "GuillermoPolito 9/16/2013 08:49" } }

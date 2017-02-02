@@ -1,0 +1,17 @@
+{
+	"category" : "ObjectBrowser-Collections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CreationObservers",
+		"NextCollectionClassNumberAvailable" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"posibleName",
+		"allClassesMethods",
+		"selectorsToDisplay" ],
+	"name" : "OBCollectionMetaObject",
+	"pools" : [
+		 ],
+	"super" : "OBAbstractMetaObject",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+I am a trait implementing the common collection base behavior in the Object Browser

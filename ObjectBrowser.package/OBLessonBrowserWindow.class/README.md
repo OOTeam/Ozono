@@ -1,0 +1,1 @@
+I am the creator of the initial loop window. I give access to the lessons, the version number, importing and exporting and updating the software.

@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-UILesson",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OBMethodListModel",
+	"pools" : [
+		 ],
+	"super" : "OBListModel",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+attributes
+variables
+	^OrderedCollection new.

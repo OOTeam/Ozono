@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Filein",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"class" ],
+	"name" : "OBCollectionPrototypeV2",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

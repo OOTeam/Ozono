@@ -1,0 +1,20 @@
+{
+	"category" : "ObjectBrowser-Lessons",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"_lesson",
+		"Set",
+		"Bag",
+		"OrderedCollection",
+		"SortedCollection",
+		"Dictionary",
+		"Error" ],
+	"name" : "OBExecutionContext",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

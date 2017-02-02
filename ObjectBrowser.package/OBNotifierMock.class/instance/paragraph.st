@@ -1,0 +1,3 @@
+mock
+paragraph
+	^self.

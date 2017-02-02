@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectBrowser-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"attributes",
+		"lesson" ],
+	"name" : "OBMetaObject",
+	"pools" : [
+		 ],
+	"super" : "OBAbstractMetaObject",
+	"type" : "normal" }

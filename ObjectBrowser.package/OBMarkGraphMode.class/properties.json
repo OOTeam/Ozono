@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Graph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OBMarkGraphMode",
+	"pools" : [
+		 ],
+	"super" : "OBGraphMode",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"agregarRepetidos:" : "GiselaDecuzzi 6/23/2010 22:53",
+		"allCollectionSelectorsFor:" : "MatiFreyre 1/26/2014 21:47",
+		"selectorsFor:" : "MatiFreyre 1/21/2014 15:35",
+		"testAddDuplicateVariablesBag" : "GuillermoPolito 8/23/2013 14:23",
+		"testAddDuplicateVariablesSet" : "GuillermoPolito 8/23/2013 14:23",
+		"testCollectionsCreatedWithClassesWorkInMethods" : "AlfredoSanzo 3/4/2014 19:46",
+		"testCollectionsCreatedWithClassesWorkInTests" : "AlfredoSanzo 3/4/2014 19:54",
+		"testConstantSelectorList" : "MatiFreyre 3/4/2014 16:16",
+		"testConstantSelectorListsForLiteral:" : "MatiFreyre 3/4/2014 16:19",
+		"testCreateBagCollection" : "GuillermoPolito 8/23/2013 14:23",
+		"testCreateOrderedCollection" : "GuillermoPolito 8/23/2013 14:23",
+		"testCreateSetCollection" : "GuillermoPolito 8/23/2013 14:23",
+		"testObtainFirst" : "GuillermoPolito 8/23/2013 14:23",
+		"testSelectorsBelongToCorrespondingClass" : "MatiFreyre 1/26/2014 21:49" } }

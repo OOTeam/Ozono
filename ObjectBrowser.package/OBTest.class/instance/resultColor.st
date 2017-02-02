@@ -1,0 +1,3 @@
+running
+resultColor
+	^ result color

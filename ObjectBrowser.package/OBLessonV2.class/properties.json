@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Filein",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lesson" ],
+	"name" : "OBLessonV2",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

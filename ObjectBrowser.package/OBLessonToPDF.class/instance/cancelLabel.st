@@ -1,0 +1,3 @@
+labels
+cancelLabel
+	^'Cancelar' translated.

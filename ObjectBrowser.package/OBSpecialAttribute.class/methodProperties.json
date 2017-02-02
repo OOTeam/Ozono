@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"newNamed:owner:pointingTo:" : "GuillermoPolito 8/23/2013 12:34" },
+	"instance" : {
+		"accept:" : "GuillermoPolito 8/23/2013 12:45",
+		"objectPointed" : "GuillermoPolito 8/23/2013 12:33",
+		"objectPointed:" : "GuillermoPolito 8/23/2013 12:34",
+		"pointsTo" : "GuillermoPolito 9/15/2013 11:37",
+		"printOn:" : "GuillermoPolito 8/23/2013 12:31",
+		"withRelationships:" : "GuillermoPolito 8/23/2013 12:38" } }

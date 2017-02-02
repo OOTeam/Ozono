@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectBrowser-Diagrams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lesson",
+		"morph" ],
+	"name" : "GraphvizObjectDiagram",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

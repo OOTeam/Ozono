@@ -1,0 +1,17 @@
+{
+	"category" : "ObjectBrowser-PDFGeneration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"debug" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lessonToPDF",
+		"doc",
+		"page",
+		"currentTop" ],
+	"name" : "OBPDFBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

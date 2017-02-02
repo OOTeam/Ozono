@@ -1,0 +1,3 @@
+margins
+rightMargin
+	^10.

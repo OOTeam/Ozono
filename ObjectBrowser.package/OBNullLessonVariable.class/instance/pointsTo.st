@@ -1,0 +1,3 @@
+references
+pointsTo
+	^OBNullObject new.

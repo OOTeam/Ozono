@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "PabloTesone 1/21/2014 11:28",
+		"testDesreferenciarVariable" : "Paul 1/19/2014 10:57",
+		"testNewVariableName" : "GuillermoPolito 6/18/2010 20:10",
+		"testNewVariablePointsToNil" : "Paul 1/19/2014 10:59",
+		"testPointVariableToObject" : "Paul 1/19/2014 10:59" } }

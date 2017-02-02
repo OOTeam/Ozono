@@ -1,0 +1,4 @@
+references
+baseObjectBinding
+
+	^baseObjectBinding

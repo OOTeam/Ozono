@@ -1,0 +1,3 @@
+dependents access
+addObjectSelectionInterested: anInterested
+	self objectSelectionInterested add: anInterested

@@ -1,0 +1,16 @@
+{
+	"category" : "ObjectBrowser-PharoLayer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"class",
+		"lesson",
+		"slotScope" ],
+	"name" : "OBCompilationBinder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

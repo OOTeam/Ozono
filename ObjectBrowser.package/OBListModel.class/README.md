@@ -1,0 +1,1 @@
+I am an abstract model for lists.

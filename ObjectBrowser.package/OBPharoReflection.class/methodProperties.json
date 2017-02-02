@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"uniqueInstance" : "GuillermoPolito 8/30/2013 00:16" },
+	"instance" : {
+		"addInstanceVariable:toClassOfObject:" : "GuillermoPolito 8/30/2013 01:21",
+		"classNameOfObject:" : "GuillermoPolito 8/30/2013 00:37",
+		"classOf:" : "GuillermoPolito 8/30/2013 00:30",
+		"compile:inLesson:inClass:notifying:" : "PabloTesone 2/22/2014 16:25",
+		"compile:inLesson:inClass:notifying:withCategory:" : "NicolasScarcella 3/1/2014 21:02",
+		"compileUnsuspended:inLesson:inClass:notifying:withCategory:" : "MatiasMelendi 12/23/2016 00:43",
+		"createClassNamed:subclassOf:inEnvironment:" : "MatiasMelendi 2/1/2017 23:59",
+		"destroyClassOf:" : "GuillermoPolito 8/30/2013 00:49",
+		"doesObject:undertandMessageSelector:" : "GuillermoPolito 8/30/2013 00:53",
+		"inClass:isRedefined:" : "GuillermoPolito 8/30/2013 00:47",
+		"inClassOf:removeMethodWithSelector:" : "GuillermoPolito 8/30/2013 01:21",
+		"inClassOfObject:sourceCodeOfMethodWithSelector:" : "GuillermoPolito 8/30/2013 00:55",
+		"inObject:getInstanceVariable:" : "GuillermoPolito 8/30/2013 01:20",
+		"inObject:setInstanceVariable:withValue:" : "GuillermoPolito 8/30/2013 01:20",
+		"inSubclassesOfClass:isRedefined:" : "GuillermoPolito 8/30/2013 00:46",
+		"instanceVariablesOfObject:" : "GuillermoPolito 8/30/2013 00:18",
+		"makeClass:subclassOf:" : "MarianaMatos 1/14/2014 10:42" } }

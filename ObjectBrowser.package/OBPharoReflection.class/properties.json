@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-PharoLayer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"UniqueInstance" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OBPharoReflection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

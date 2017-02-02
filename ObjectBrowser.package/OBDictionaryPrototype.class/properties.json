@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Collections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OBDictionaryPrototype",
+	"pools" : [
+		 ],
+	"super" : "OBCollectionPrototype",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+builder
+createContent
+	self subclassResponsibility.

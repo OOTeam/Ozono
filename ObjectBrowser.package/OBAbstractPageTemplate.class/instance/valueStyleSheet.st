@@ -1,0 +1,3 @@
+styles
+valueStyleSheet
+	^self subclassResponsibility.

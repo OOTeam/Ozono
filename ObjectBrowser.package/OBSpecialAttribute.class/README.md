@@ -1,0 +1,1 @@
+I am a meta-object representing an special object attribute like the prototype relation. I implement mostly accessors for the attribute data such as the name of the attribute and the object referenced by it.

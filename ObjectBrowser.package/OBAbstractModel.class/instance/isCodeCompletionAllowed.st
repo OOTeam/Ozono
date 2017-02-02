@@ -1,0 +1,3 @@
+code completion
+isCodeCompletionAllowed
+	^true

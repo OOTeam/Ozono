@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Diagrams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"boundingBox" ],
+	"name" : "LessonNodeMorph",
+	"pools" : [
+		 ],
+	"super" : "DiagramNodeMorph",
+	"type" : "normal" }

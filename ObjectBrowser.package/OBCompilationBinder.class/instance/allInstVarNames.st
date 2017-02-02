@@ -1,0 +1,4 @@
+compiling
+allInstVarNames
+
+	^ class allInstVarNames

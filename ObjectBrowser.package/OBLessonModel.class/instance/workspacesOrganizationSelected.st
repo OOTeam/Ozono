@@ -1,0 +1,3 @@
+selection
+workspacesOrganizationSelected
+	self selectedObjectBrowserVariable: OBNullLessonVariable new.

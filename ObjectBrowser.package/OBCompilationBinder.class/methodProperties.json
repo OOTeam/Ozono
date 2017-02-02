@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"onLesson:forClass:" : "GuillermoPolito 9/15/2013 11:42" },
+	"instance" : {
+		"addInstVarNamed:" : "GuillermoPolito 9/16/2013 11:03",
+		"allInstVarNames" : "GuillermoPolito 9/16/2013 09:18",
+		"binding" : "GuillermoPolito 12/30/2013 22:45",
+		"bindingOf:" : "GuillermoPolito 9/16/2013 11:01",
+		"class:" : "GuillermoPolito 9/16/2013 11:01",
+		"environment" : "GuillermoPolito 9/16/2013 11:02",
+		"instSize" : "GuillermoPolito 9/16/2013 11:03",
+		"instVarNames" : "GuillermoPolito 9/16/2013 11:02",
+		"lesson:" : "GuillermoPolito 9/16/2013 11:01",
+		"literalScannedAs:notifying:" : "GuillermoPolito 9/16/2013 11:02",
+		"parserClass" : "GuillermoPolito 12/30/2013 17:13",
+		"variablesAndOffsetsDo:" : "GuillermoPolito 9/16/2013 11:02" } }

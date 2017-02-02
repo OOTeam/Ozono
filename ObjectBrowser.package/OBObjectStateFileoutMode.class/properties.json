@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Fileout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OBObjectStateFileoutMode",
+	"pools" : [
+		 ],
+	"super" : "OBObjectFileoutMode",
+	"type" : "normal" }

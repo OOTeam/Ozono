@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Diagrams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LessonNode",
+	"pools" : [
+		 ],
+	"super" : "ObjectNode",
+	"type" : "normal" }

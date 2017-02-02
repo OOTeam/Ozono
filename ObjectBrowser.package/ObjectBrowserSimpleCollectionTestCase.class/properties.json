@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"collection" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"colection" ],
+	"name" : "ObjectBrowserSimpleCollectionTestCase",
+	"pools" : [
+		 ],
+	"super" : "OBTestCase",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectBrowser-Tests-Mocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"test",
+		"code" ],
+	"name" : "OBNotifierMock",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-PDFGeneration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PabloTesone 2/7/2014 11:54",
+	"instvars" : [
+		 ],
+	"name" : "OBGeneratePDFWindow",
+	"pools" : [
+		 ],
+	"super" : "StandardWindow",
+	"type" : "normal" }

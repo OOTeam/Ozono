@@ -1,0 +1,16 @@
+{
+	"category" : "ObjectBrowser-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lessonModel",
+		"workspace",
+		"obj" ],
+	"name" : "OBCollectionCloningTestCase",
+	"pools" : [
+		 ],
+	"super" : "OBTestCase",
+	"type" : "normal" }

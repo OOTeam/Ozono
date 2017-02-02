@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Compatibility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OldClassBuilderAdapter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

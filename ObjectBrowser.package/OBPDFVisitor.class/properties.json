@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectBrowser-PDFGeneration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"debug" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"builder",
+		"objectName" ],
+	"name" : "OBPDFVisitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

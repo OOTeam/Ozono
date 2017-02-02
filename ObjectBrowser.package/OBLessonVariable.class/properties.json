@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Lessons",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Paul 1/21/2014 17:27",
+	"instvars" : [
+		"baseObjectBinding" ],
+	"name" : "OBLessonVariable",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

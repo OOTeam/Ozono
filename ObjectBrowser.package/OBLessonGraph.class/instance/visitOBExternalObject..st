@@ -1,0 +1,3 @@
+visiting
+visitOBExternalObject: anExternalObject
+	self addObject: anExternalObject

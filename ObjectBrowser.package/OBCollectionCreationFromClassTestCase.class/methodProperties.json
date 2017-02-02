@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "PabloTesone 3/9/2014 09:47",
+		"tearDown" : "PabloTesone 3/9/2014 09:47",
+		"testNewBag" : "PabloTesone 3/9/2014 09:47",
+		"testNewBagInObject" : "PabloTesone 3/9/2014 09:56",
+		"testNewOrderedCollection" : "PabloTesone 3/9/2014 09:48",
+		"testNewOrderedCollectionInObject" : "PabloTesone 3/9/2014 09:53",
+		"testNewSet" : "PabloTesone 3/10/2014 16:48",
+		"testNewSetInObject" : "PabloTesone 3/9/2014 09:57" } }

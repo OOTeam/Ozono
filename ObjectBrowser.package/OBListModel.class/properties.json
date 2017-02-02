@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectBrowser-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selectedObject",
+		"menuSelector" ],
+	"name" : "OBListModel",
+	"pools" : [
+		 ],
+	"super" : "OBAbstractModel",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+writing
+cr
+
+	internalStream cr.

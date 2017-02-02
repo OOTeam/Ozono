@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OBExternalObjectMetaObject",
+	"pools" : [
+		 ],
+	"super" : "OBAbstractMetaObject",
+	"type" : "normal" }

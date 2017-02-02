@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "PabloTesone 1/21/2014 17:03",
+		"tearDown" : "PabloTesone 1/21/2014 14:46",
+		"testCloneBag" : "PabloTesone 1/21/2014 17:09",
+		"testCloneOrdered" : "PabloTesone 1/21/2014 17:09",
+		"testCloneSet" : "PabloTesone 1/21/2014 17:10" } }

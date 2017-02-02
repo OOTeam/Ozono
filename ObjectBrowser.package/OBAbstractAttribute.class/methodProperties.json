@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"newNamed:owner:" : "GuillermoPolito 8/23/2013 12:58" },
+	"instance" : {
+		"=" : "GuillermoPolito 8/23/2013 12:32",
+		"accept:" : "GuillermoPolito 8/23/2013 12:45",
+		"actionsForAttributeList" : "GuillermoPolito 8/23/2013 12:30",
+		"deleteConfirmationMessage" : "NicolasPasserini 2/22/2014 17:05",
+		"hash" : "GuillermoPolito 8/23/2013 12:32",
+		"icon" : "GuillermoPolito 8/23/2013 12:30",
+		"name" : "GuillermoPolito 8/23/2013 12:32",
+		"name:" : "GuillermoPolito 8/23/2013 12:32",
+		"objectPointed" : "GuillermoPolito 8/23/2013 12:30",
+		"owner" : "GuillermoPolito 8/23/2013 12:33",
+		"owner:" : "GuillermoPolito 8/23/2013 12:42",
+		"pointsTo" : "GuillermoPolito 8/23/2013 12:33",
+		"removeFrom:" : "GuillermoPolito 8/23/2013 12:30" } }

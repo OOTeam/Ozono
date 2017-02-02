@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testCreateDuplicatedVariable" : "GuillermoPolito 8/23/2013 11:30",
+		"testCreateNonLowecaseVariable" : "GuillermoPolito 5/1/2011 22:32",
+		"testCreateNonValidVariableNamed:" : "GuillermoPolito 8/23/2013 11:30",
+		"testCreateVariable" : "GuillermoPolito 8/23/2013 12:39",
+		"testCreateWrongCharVariable" : "GuillermoPolito 5/1/2011 22:34" } }

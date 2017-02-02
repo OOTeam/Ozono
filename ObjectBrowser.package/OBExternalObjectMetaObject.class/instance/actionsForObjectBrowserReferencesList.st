@@ -1,0 +1,3 @@
+ui-actions
+actionsForObjectBrowserReferencesList
+	^OrderedCollection new.

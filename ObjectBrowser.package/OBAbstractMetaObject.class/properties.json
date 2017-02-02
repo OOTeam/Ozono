@@ -1,0 +1,16 @@
+{
+	"category" : "ObjectBrowser-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"NextObjectBrowserClassNumber" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"methods",
+		"concreteObject",
+		"prototype" ],
+	"name" : "OBAbstractMetaObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

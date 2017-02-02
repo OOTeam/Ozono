@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"doubleClickSelector" ],
+	"name" : "PluggableTreeMorphWithDoubleClick",
+	"pools" : [
+		 ],
+	"super" : "PluggableTreeMorph",
+	"type" : "normal" }

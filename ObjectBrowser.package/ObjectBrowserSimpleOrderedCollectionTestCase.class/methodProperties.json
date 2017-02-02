@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"expectedOnAdd" : "GiselaDecuzzi 7/9/2010 17:06",
+		"expectedOnCollect" : "GuillermoPolito 8/23/2013 14:28",
+		"expectedPrintString" : "PabloTesone 4/18/2014 18:50",
+		"setUp" : "GuillermoPolito 8/23/2013 14:27",
+		"testAddAfter" : "GiselaDecuzzi 7/9/2010 18:55",
+		"testAddAfterIndex" : "GiselaDecuzzi 7/9/2010 18:55",
+		"testAddBefore" : "GiselaDecuzzi 7/9/2010 18:55",
+		"testAddBeforeIndex" : "GiselaDecuzzi 7/9/2010 18:55",
+		"testAt" : "GiselaDecuzzi 7/9/2010 18:54",
+		"testAtPut" : "GiselaDecuzzi 7/9/2010 18:55",
+		"testFirst" : "GiselaDecuzzi 7/9/2010 18:54",
+		"testLast" : "GiselaDecuzzi 7/9/2010 18:54",
+		"testRemoveAt" : "GiselaDecuzzi 7/9/2010 18:55" } }

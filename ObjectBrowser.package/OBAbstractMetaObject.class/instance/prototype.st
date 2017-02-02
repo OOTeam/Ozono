@@ -1,0 +1,4 @@
+cloning
+prototype
+
+	^prototype

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"newWithSelector:onLesson:" : "GuillermoPolito 8/23/2013 19:04" },
+	"instance" : {
+		"accept:" : "GuillermoPolito 8/29/2013 20:14",
+		"code" : "GuillermoPolito 10/19/2010 21:54",
+		"deleteConfirmationMessage" : "MatiFreyre 2/6/2014 22:53",
+		"fileOut" : "AlfredoSanzo 8/20/2014 11:33",
+		"icon" : "GuillermoPolito 10/27/2010 23:48",
+		"initialize" : "GuillermoPolito 8/23/2013 19:05",
+		"lesson:" : "GuillermoPolito 10/19/2010 20:45",
+		"makeSelectionOn:" : "Aivan 9/7/2012 11:56",
+		"name" : "GuillermoPolito 8/23/2013 17:55",
+		"printString" : "GuillermoPolito 10/19/2010 20:36",
+		"resultColor" : "MatiFreyre 9/4/2014 14:53",
+		"resultDescription" : "MatiFreyre 9/4/2014 14:53",
+		"run" : "PabloTesone 1/16/2014 19:43",
+		"runContext:" : "MatiFreyre 9/4/2014 12:44",
+		"selector" : "GuillermoPolito 10/19/2010 22:02",
+		"selector:" : "GuillermoPolito 10/19/2010 20:25" } }

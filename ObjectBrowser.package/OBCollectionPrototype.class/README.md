@@ -1,0 +1,1 @@
+I am an abstract collection prototype. My sub instances can create collections and are used as prototypes in the lesson workspace.

@@ -1,0 +1,22 @@
+{
+	"category" : "ObjectBrowser-Filein",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"LOOPLesson",
+		"ObjectBrowserObject",
+		"NoObjectBrowserObject",
+		"ObjectBrowserCollection",
+		"set",
+		"dictionary",
+		"ordered",
+		"bag",
+		"sorted" ],
+	"name" : "OBBindingsV2AndBelow",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

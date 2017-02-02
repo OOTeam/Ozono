@@ -1,0 +1,1 @@
+I represent an inexistant attribute or relationship

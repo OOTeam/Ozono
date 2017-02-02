@@ -1,0 +1,4 @@
+methods
+myClassHasMethod: aSelector
+
+	^true

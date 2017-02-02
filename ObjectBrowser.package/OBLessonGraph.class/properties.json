@@ -1,0 +1,18 @@
+{
+	"category" : "ObjectBrowser-Graph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"lesson",
+		"objects",
+		"references",
+		"derreferencedObjects",
+		"mode" ],
+	"name" : "OBLessonGraph",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

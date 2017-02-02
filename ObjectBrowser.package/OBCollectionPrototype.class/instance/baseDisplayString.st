@@ -1,0 +1,4 @@
+printing
+baseDisplayString
+
+	self subclassResponsibility

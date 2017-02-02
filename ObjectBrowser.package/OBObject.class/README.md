@@ -1,0 +1,1 @@
+I am an abstract class that contains the common behavior for the object browser objects.

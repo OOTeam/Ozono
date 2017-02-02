@@ -1,0 +1,3 @@
+removing
+removeFrom: aRealClass
+	self subclassResponsibility

@@ -1,0 +1,16 @@
+{
+	"category" : "ObjectBrowser-Collections",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TOBCollection classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"_metaObject" ],
+	"name" : "OBBag",
+	"pools" : [
+		 ],
+	"super" : "Bag",
+	"traitcomposition" : "TOBCollection",
+	"type" : "normal" }

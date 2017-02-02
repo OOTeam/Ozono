@@ -1,0 +1,4 @@
+accessing
+metaObject
+
+	^_metaObject

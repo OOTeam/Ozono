@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"show:" : "GuillermoPolito 9/14/2010 19:30" },
+	"instance" : {
+		"buildAboutMorph" : "GuillermoPolito 5/8/2012 23:28",
+		"buildImportLessonButton" : "GuillermoPolito 8/23/2013 11:03",
+		"buildLessonList" : "JavierFernandes 4/18/2014 12:47",
+		"buildNewFreeLessonButton" : "GuillermoPolito 9/11/2010 16:58",
+		"buildUpdateButton" : "GuillermoPolito 9/21/2011 17:15",
+		"createView" : "MatiFreyre 9/3/2014 12:20",
+		"delete" : "GuillermoPolito 9/14/2010 19:30",
+		"loopBrowser:" : "GuillermoPolito 9/11/2010 16:26",
+		"show" : "MatiFreyre 9/3/2014 12:20",
+		"show:" : "GuillermoPolito 8/23/2013 10:59" } }

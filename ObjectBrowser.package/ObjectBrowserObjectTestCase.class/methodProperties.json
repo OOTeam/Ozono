@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "GuillermoPolito 8/22/2013 22:22",
+		"testAddDuplicatedVariable" : "GuillermoPolito 12/30/2013 22:43",
+		"testAddMethod" : "GuillermoPolito 8/22/2013 22:42",
+		"testAddSintacticBadMethod" : "GuillermoPolito 6/17/2010 12:09",
+		"testAddVariable" : "GuillermoPolito 8/22/2013 20:27",
+		"testCloneAnObjectWithAnAttribute" : "MarianaMatos 1/14/2014 10:40",
+		"testCloneClassName" : "GuillermoPolito 9/15/2013 11:37",
+		"testCloneHasDifferentClass" : "GuillermoPolito 9/15/2013 11:37",
+		"testClonePrototype" : "GuillermoPolito 6/17/2010 14:05",
+		"testCloneUnderstandsItsPrototypesMessage" : "MarianaMatos 1/14/2014 10:39",
+		"testNewObjectBrowserObjectClass" : "GuillermoPolito 9/15/2013 11:37",
+		"testNewObjectBrowserObjectMethods" : "GuillermoPolito 6/17/2010 00:34",
+		"testNewObjectBrowserObjectVariables" : "GuillermoPolito 8/22/2013 20:27",
+		"testRemoveMethod" : "GuillermoPolito 9/15/2013 11:37" } }

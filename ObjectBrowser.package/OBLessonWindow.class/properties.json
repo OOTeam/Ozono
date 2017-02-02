@@ -1,0 +1,26 @@
+{
+	"category" : "ObjectBrowser-UILesson",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"objectBrowser",
+		"methodEditor",
+		"methodEditorButton",
+		"workspaceButton",
+		"garbageCollectionButton",
+		"objectBrowserTree",
+		"statusMorph",
+		"statusTextMorph",
+		"groupTab",
+		"pages",
+		"diagram",
+		"selectedTestResultTextMorph",
+		"selectedTestResultBoxMorph" ],
+	"name" : "OBLessonWindow",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

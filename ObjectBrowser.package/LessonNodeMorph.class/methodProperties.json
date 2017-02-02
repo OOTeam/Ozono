@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"connectableBounds" : "carlaGriggio 12/1/2010 01:00",
+		"diagramNode:" : "carlaGriggio 12/1/2010 01:05",
+		"initialize" : "carlaGriggio 12/1/2010 17:26",
+		"mouseDown:" : "carlaGriggio 12/1/2010 17:38",
+		"mouseMove:" : "carlaGriggio 12/17/2010 04:28",
+		"mouseUp:" : "carlaGriggio 12/1/2010 17:38",
+		"noteNewOwner:" : "DeboraFortini 6/12/2011 11:25",
+		"resetConnections" : "carlaGriggio 12/1/2010 01:06",
+		"subject" : "carlaGriggio 12/1/2010 01:08",
+		"updateBounds" : "DeboraFortini 6/14/2011 20:51",
+		"updateView" : "carlaGriggio 12/2/2010 14:09" } }

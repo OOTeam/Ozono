@@ -1,0 +1,17 @@
+{
+	"category" : "ObjectBrowser-Fileout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lesson",
+		"internalStream",
+		"mode",
+		"currentObject" ],
+	"name" : "OBFileOutV3",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

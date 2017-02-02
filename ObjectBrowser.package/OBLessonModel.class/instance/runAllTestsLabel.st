@@ -1,0 +1,3 @@
+accessing
+runAllTestsLabel
+	^'Probar Todos'

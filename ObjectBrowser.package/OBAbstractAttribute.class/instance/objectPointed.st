@@ -1,0 +1,3 @@
+reference
+objectPointed
+	self subclassResponsibility

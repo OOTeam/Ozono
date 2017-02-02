@@ -1,0 +1,4 @@
+accessing
+baseObject
+
+	^ concreteObject

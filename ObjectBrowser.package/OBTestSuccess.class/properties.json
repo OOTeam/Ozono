@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-TestFramework",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OBTestSuccess",
+	"pools" : [
+		 ],
+	"super" : "OBTestResult",
+	"type" : "normal" }

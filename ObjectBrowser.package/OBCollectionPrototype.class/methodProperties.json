@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"newForLesson:" : "GuillermoPolito 8/23/2013 14:16" },
+	"instance" : {
+		"allAttributeNames" : "GuillermoPolito 8/29/2013 22:30",
+		"baseDisplayString" : "GuillermoPolito 8/29/2013 21:53",
+		"basicClone" : "ClaraAllende 8/11/2014 11:06",
+		"clone" : "NIcolasPasserini 4/18/2014 21:10",
+		"collectionMetaObjectClass" : "MatiFreyre 3/4/2014 16:13",
+		"collectionRealObjectClass" : "MatiFreyre 3/4/2014 16:13",
+		"createRealCollection" : "MatiFreyre 3/4/2014 16:00",
+		"displayString" : "GuillermoPolito 8/29/2013 21:53",
+		"lesson:" : "GuillermoPolito 8/23/2013 14:17",
+		"new" : "MatiFreyre 3/4/2014 15:58",
+		"newMetaObjectForCollection:" : "NIcolasPasserini 4/18/2014 17:45",
+		"printString" : "GuillermoPolito 8/23/2013 15:31",
+		"relationWith:" : "GuillermoPolito 8/30/2013 00:03" } }

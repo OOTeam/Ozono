@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"model" ],
+	"name" : "OBAbstractModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

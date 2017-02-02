@@ -1,0 +1,23 @@
+{
+	"category" : "ObjectBrowser-Lessons",
+	"classinstvars" : [
+		"lessons" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"variables",
+		"title",
+		"objects",
+		"executionContext",
+		"browser",
+		"lessonEnvironment",
+		"workspaces",
+		"tests",
+		"objectDiagram",
+		"literals" ],
+	"name" : "OBLesson",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

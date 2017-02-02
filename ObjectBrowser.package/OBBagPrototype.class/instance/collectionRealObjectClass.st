@@ -1,0 +1,3 @@
+cloning
+collectionRealObjectClass
+	^ OBBag

@@ -1,0 +1,3 @@
+converting
+asString
+	^dereferencedObject displayString

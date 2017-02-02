@@ -1,0 +1,1 @@
+I am a set factory. My instances can create sets and are used as prototypes in the lesson workspace.

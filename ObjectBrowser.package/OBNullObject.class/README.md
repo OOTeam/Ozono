@@ -1,0 +1,1 @@
+I am a null-object representing the absense of an OBMetaObject inside the object browser. I keep polymorphic with the OBMetaObject.

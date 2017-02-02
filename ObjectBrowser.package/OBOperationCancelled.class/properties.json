@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AlfredoSanzo 9/7/2011 17:25",
+	"instvars" : [
+		 ],
+	"name" : "OBOperationCancelled",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+bindings
+bindingScope
+
+	^ bindingScope

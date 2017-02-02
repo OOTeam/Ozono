@@ -1,0 +1,17 @@
+{
+	"category" : "ObjectBrowser-UILesson",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"lesson",
+		"pane",
+		"label",
+		"acceptAction" ],
+	"name" : "OBWorkspace",
+	"pools" : [
+		 ],
+	"super" : "Workspace",
+	"type" : "normal" }

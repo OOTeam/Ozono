@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "GuillermoPolito 8/23/2013 14:08",
+		"at:put:" : "GuillermoPolito 9/15/2013 11:37",
+		"basicRelationships" : "GuillermoPolito 9/15/2013 11:37",
+		"classSelectorsToDisplay" : "NIcolasPasserini 4/18/2014 18:49",
+		"hasReferencesTo:" : "GuillermoPolito 8/23/2013 15:57",
+		"keysReferenceTo:" : "GuillermoPolito 9/15/2013 11:37",
+		"printString" : "GuillermoPolito 8/23/2013 14:36",
+		"valuesReferenceTo:" : "GuillermoPolito 9/15/2013 11:37" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "ObjectBrowser-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lessonToPDF",
+		"oldAuthor",
+		"oldTeacher",
+		"oldCourse" ],
+	"name" : "OBGeneratePDFTest",
+	"pools" : [
+		 ],
+	"super" : "OBTestCase",
+	"type" : "normal" }

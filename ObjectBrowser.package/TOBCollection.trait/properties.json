@@ -1,0 +1,6 @@
+{
+	"category" : "ObjectBrowser-Collections",
+	"classtraitcomposition" : "TOBObject classTrait",
+	"commentStamp" : "<historical>",
+	"name" : "TOBCollection",
+	"traitcomposition" : "TOBObject" }

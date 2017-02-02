@@ -1,0 +1,3 @@
+mock
+textMorph
+	^self.

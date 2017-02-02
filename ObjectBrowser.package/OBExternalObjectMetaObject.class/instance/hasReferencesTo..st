@@ -1,0 +1,3 @@
+references
+hasReferencesTo: anObject
+	^false

@@ -1,0 +1,3 @@
+ObjectBrowser
+objectBrowserVariables
+	^self lesson variables

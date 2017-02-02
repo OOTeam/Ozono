@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectBrowser-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"name",
+		"owner" ],
+	"name" : "OBAbstractAttribute",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

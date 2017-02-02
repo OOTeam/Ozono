@@ -1,0 +1,3 @@
+labels
+teacherLabel
+	^'Profesor' translated.

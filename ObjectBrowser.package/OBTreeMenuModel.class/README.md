@@ -1,0 +1,1 @@
+I'm an abstract class representing an item that will appear in the Tree menu in the left pane of the lesson browser.

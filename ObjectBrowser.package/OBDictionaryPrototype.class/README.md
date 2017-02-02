@@ -1,0 +1,1 @@
+I am a dictionary factory. My instances can create dictionaries and are used as prototypes in the lesson workspace.

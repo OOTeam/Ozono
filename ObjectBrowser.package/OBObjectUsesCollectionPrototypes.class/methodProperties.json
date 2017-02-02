@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "GuillermoPolito 9/16/2013 08:16",
+		"testObjectUsesBagPrototypeAndGetsABag" : "GuillermoPolito 9/16/2013 07:34",
+		"testObjectUsesDictionaryPrototypeAndGetsADictionary" : "GuillermoPolito 9/16/2013 07:34",
+		"testObjectUsesOrderedCollectionPrototypeAndGetsAnOrderedCollection" : "GuillermoPolito 9/16/2013 07:34",
+		"testObjectUsesSetPrototypeAndGetsASet" : "GuillermoPolito 9/16/2013 07:34",
+		"testObjectUsesSortedPrototypeAndGetsASorted" : "GuillermoPolito 9/16/2013 07:34" } }

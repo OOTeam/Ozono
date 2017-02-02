@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Collections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MatiFreyre 1/23/2014 19:56",
+	"instvars" : [
+		 ],
+	"name" : "OBSortedMetaObject",
+	"pools" : [
+		 ],
+	"super" : "OBCollectionMetaObject",
+	"type" : "normal" }

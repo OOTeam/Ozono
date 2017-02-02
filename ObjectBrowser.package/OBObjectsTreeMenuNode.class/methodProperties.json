@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"for:" : "GuillermoPolito 9/24/2010 01:43" },
+	"instance" : {
+		"createBag" : "GuillermoPolito 8/23/2013 11:45",
+		"createDictionary" : "GuillermoPolito 8/23/2013 11:45",
+		"createOrdered" : "GuillermoPolito 8/23/2013 11:45",
+		"createSet" : "GuillermoPolito 8/23/2013 11:45",
+		"createSorted" : "GuillermoPolito 8/23/2013 11:45",
+		"icon" : "GuillermoPolito 8/23/2013 11:46",
+		"makeSelectionOn:" : "GuillermoPolito 8/23/2013 11:46",
+		"menu:" : "GuillermoPolito 8/23/2013 11:44",
+		"name" : "GuillermoPolito 8/23/2013 11:44",
+		"subMenuCollections" : "GuillermoPolito 8/23/2013 11:44",
+		"subMenuCollectionsName" : "GuillermoPolito 8/23/2013 11:44",
+		"treeContents" : "GuillermoPolito 8/23/2013 11:44" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "ObjectBrowser-Diagrams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"diagram",
+		"lesson",
+		"board" ],
+	"name" : "SmallUmlObjectDiagram",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

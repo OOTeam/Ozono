@@ -1,0 +1,4 @@
+attributes
+addAttributeNamed: anAttributeName
+
+	self signalNotModificableCollection

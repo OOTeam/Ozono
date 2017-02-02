@@ -1,0 +1,3 @@
+ui
+actionsForAttributeList
+	self subclassResponsibility

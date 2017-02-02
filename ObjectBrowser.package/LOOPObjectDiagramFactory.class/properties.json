@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Diagrams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DiagramClass" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LOOPObjectDiagramFactory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

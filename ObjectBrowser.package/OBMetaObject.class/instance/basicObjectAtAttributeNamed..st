@@ -1,0 +1,4 @@
+references
+basicObjectAtAttributeNamed: attributeName
+
+	^OBPharoReflection uniqueInstance inObject: concreteObject getInstanceVariable: attributeName

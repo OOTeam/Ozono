@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectBrowser-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"object",
+		"selector" ],
+	"name" : "OBMethod",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

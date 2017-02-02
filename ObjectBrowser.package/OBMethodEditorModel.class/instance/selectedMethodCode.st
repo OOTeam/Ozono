@@ -1,0 +1,3 @@
+accessing
+selectedMethodCode
+	^self model selectedMethodCode

@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-UI-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OBUndeclaredVariable",
+	"pools" : [
+		 ],
+	"super" : "UndeclaredVariable",
+	"type" : "normal" }

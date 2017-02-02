@@ -1,0 +1,3 @@
+cloning
+new
+	^ self clone

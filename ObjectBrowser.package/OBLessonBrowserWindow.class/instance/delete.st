@@ -1,0 +1,3 @@
+showing
+delete
+	window delete.

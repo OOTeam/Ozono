@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OBIcons",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

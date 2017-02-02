@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-PDFGeneration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OBCommonPageTemplate",
+	"pools" : [
+		 ],
+	"super" : "OBAbstractPageTemplate",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Filein",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"object" ],
+	"name" : "OBMetaNoObjectV2",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

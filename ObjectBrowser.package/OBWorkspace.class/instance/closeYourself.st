@@ -1,0 +1,3 @@
+actions
+closeYourself
+	window delete.

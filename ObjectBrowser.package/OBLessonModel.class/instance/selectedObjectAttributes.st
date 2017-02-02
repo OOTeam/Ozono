@@ -1,0 +1,3 @@
+accessing
+selectedObjectAttributes
+	^self selectedObject attributes

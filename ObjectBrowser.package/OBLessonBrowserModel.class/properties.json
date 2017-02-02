@@ -1,0 +1,16 @@
+{
+	"category" : "ObjectBrowser-UILessonBrowser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"lessonContainer",
+		"window",
+		"selectedLesson" ],
+	"name" : "OBLessonBrowserModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+methods
+redefines: aSelector
+	^false

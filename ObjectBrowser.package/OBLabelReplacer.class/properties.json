@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectBrowser-PDFGeneration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"values",
+		"expr" ],
+	"name" : "OBLabelReplacer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

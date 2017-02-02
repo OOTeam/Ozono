@@ -1,0 +1,4 @@
+compiling
+environment
+
+	^ lesson lessonEnvironment

@@ -1,0 +1,4 @@
+diagram
+objectDiagram
+
+	^ objectDiagram

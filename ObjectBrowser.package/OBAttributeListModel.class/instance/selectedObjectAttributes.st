@@ -1,0 +1,3 @@
+as yet unclassified
+selectedObjectAttributes
+	^self model selectedObjectAttributes

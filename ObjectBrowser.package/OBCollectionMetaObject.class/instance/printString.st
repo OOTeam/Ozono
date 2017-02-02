@@ -1,0 +1,4 @@
+printing
+printString
+
+	^'aCollection'.

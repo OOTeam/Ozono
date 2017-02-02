@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"expectedOnCollect" : "GiselaDecuzzi 7/9/2010 18:40",
+		"expectedPrintString" : "PabloTesone 1/26/2014 20:46",
+		"putSomeElements" : "GiselaDecuzzi 7/9/2010 18:43",
+		"testAdd" : "GiselaDecuzzi 7/9/2010 18:53",
+		"testAllSatisfy" : "GiselaDecuzzi 7/9/2010 18:44",
+		"testAnySatisfy" : "GiselaDecuzzi 7/9/2010 18:44",
+		"testCollect" : "GiselaDecuzzi 7/9/2010 18:44",
+		"testDo" : "GiselaDecuzzi 7/9/2010 18:44",
+		"testIncludes" : "GiselaDecuzzi 7/9/2010 18:44",
+		"testInjectInto" : "GiselaDecuzzi 7/9/2010 18:44",
+		"testIsEmpty" : "GiselaDecuzzi 7/9/2010 18:45",
+		"testPrintString" : "PabloTesone 1/26/2014 20:50",
+		"testRemove" : "GiselaDecuzzi 7/9/2010 18:45",
+		"testSelect" : "PabloTesone 1/26/2014 20:51",
+		"testSize" : "GiselaDecuzzi 7/9/2010 18:45" } }

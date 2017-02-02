@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Diagrams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PdepDiagrams",
+	"pools" : [
+		 ],
+	"super" : "DiagramsHolder",
+	"type" : "normal" }

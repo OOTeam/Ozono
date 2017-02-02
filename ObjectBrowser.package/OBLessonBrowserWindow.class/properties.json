@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectBrowser-UILessonBrowser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"loopBrowser",
+		"window" ],
+	"name" : "OBLessonBrowserWindow",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

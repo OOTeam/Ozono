@@ -1,0 +1,15 @@
+{
+	"category" : "ObjectBrowser-Graph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"graph",
+		"visitedObjects" ],
+	"name" : "OBGraphMode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

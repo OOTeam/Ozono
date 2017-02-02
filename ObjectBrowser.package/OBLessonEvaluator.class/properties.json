@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-Lessons",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OBLessonEvaluator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
