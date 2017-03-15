@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfObjectBrowser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfObjectBrowser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
