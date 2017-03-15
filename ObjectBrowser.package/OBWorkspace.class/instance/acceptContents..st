@@ -1,4 +1,4 @@
-*ObjectBrowser-Compatibility
+as yet unclassified
 acceptContents: aString
 
 	self fileName ifNotNil: [ self saveString: aString toFile: self fileName ].

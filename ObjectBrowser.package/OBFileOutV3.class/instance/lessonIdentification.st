@@ -1,4 +1,4 @@
 template
 lessonIdentification
 
-	^lesson title asLegalSelector
+	^lesson title asValidSelector

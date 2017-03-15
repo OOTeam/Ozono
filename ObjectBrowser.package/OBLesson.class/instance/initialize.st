@@ -5,7 +5,7 @@ initialize
 	super initialize.
 	objects := Set new.
 	variables := OrderedCollection new.
-	workspaces := OrderedCollection new.
+	workspaces := SortedCollection sortBlock:[:w1 :w2| w1 label < w2 label].
 	tests := Dictionary new.
 	
 	lessonEnvironment := SystemDictionary withOrganizer: SystemOrganizer new.

@@ -3,9 +3,9 @@ subMenuCollections
 
 	| menuCrearColeccion |
 	menuCrearColeccion := MenuMorph new target: self; yourself .
-	menuCrearColeccion add:'set' action: #createSet.
-	menuCrearColeccion add:'bag' action: #createBag.
-	menuCrearColeccion add:'ordered' action: #createOrdered.
-	menuCrearColeccion add:'sorted' action: #createSorted.
-	menuCrearColeccion add:'dictionary' action: #createDictionary.
+	menuCrearColeccion add:'set' selector: #createSet.
+	menuCrearColeccion add:'bag' selector: #createBag.
+	menuCrearColeccion add:'ordered' selector: #createOrdered.
+	menuCrearColeccion add:'sorted' selector: #createSorted.
+	menuCrearColeccion add:'dictionary' selector: #createDictionary.
 	^menuCrearColeccion.

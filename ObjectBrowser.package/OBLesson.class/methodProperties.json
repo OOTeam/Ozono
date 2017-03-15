@@ -16,7 +16,7 @@
 		"selectionInterval" : "GiselaDecuzzi 9/21/2010 20:26",
 		"suspendAllWhile:" : "GuillermoPolito 8/22/2013 17:46" },
 	"instance" : {
-		"accept:" : "GuillermoPolito 8/23/2013 19:16",
+		"accept:" : "MatiasMelendi 8/27/2016 16:27",
 		"addObject:" : "GuillermoPolito 8/23/2013 18:20",
 		"addVariable:" : "GuillermoPolito 8/23/2013 18:31",
 		"addWorkspace:" : "GuillermoPolito 8/23/2013 18:39",
@@ -41,7 +41,7 @@
 		"hasBindingThatBeginsWith:" : "PabloTesone 2/22/2014 17:13",
 		"hasVariableNamed:" : "GuillermoPolito 8/23/2013 18:36",
 		"includesLiteralNamed:" : "GuillermoPolito 8/23/2013 14:15",
-		"initialize" : "NIcolasPasserini 4/19/2014 12:00",
+		"initialize" : "MatiasMelendi 8/27/2016 15:48",
 		"initializeLiterals" : "MarianaMatos 4/18/2014 18:28",
 		"lessonEnvironment" : "GuillermoPolito 8/23/2013 17:48",
 		"literalNamed:" : "GuillermoPolito 8/23/2013 14:15",

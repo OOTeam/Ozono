@@ -1,3 +1,3 @@
 exporting
 fileNameFor: anObject
-	^ anObject name asLegalSelector , self fileExtension
+	^ anObject name asValidSelector , self fileExtension
