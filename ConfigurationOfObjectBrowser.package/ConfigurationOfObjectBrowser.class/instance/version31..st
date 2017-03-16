@@ -5,6 +5,6 @@ version31: spec
 		for: #common
 		do: [ 
 			spec blessing: #development.
-			spec package: 'ObjectBrowser' with: 'ObjectBrowser-MatiasMelendi.605'. 
+			spec package: 'ObjectBrowser' with: 'ObjectBrowser-MatiasMelendi.606'. 
 			spec project: 'smallUML' with: '1.2'.
 			spec project: 'artefact' with: '1.3' ]

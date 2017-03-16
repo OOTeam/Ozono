@@ -1,0 +1,4 @@
+compiling
+allSlots
+
+	^ class allSlots
