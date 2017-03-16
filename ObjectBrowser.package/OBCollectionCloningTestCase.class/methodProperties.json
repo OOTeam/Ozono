@@ -4,6 +4,6 @@
 	"instance" : {
 		"setUp" : "PabloTesone 1/21/2014 17:03",
 		"tearDown" : "PabloTesone 1/21/2014 14:46",
-		"testCloneBag" : "MatiasMelendi 8/27/2016 17:08",
+		"testCloneBag" : "MatiasMelendi 3/16/2017 02:10",
 		"testCloneOrdered" : "MatiasMelendi 8/27/2016 17:07",
 		"testCloneSet" : "MatiasMelendi 8/27/2016 17:08" } }

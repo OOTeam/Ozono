@@ -4,8 +4,8 @@
 	"instance" : {
 		"setUp" : "PabloTesone 3/9/2014 09:47",
 		"tearDown" : "PabloTesone 3/9/2014 09:47",
-		"testNewBag" : "MatiasMelendi 8/28/2016 11:59",
-		"testNewBagInObject" : "MatiasMelendi 8/28/2016 12:16",
+		"testNewBag" : "MatiasMelendi 3/15/2017 17:48",
+		"testNewBagInObject" : "MatiasMelendi 3/15/2017 18:06",
 		"testNewOrderedCollection" : "MatiasMelendi 8/28/2016 12:16",
 		"testNewOrderedCollectionInObject" : "MatiasMelendi 8/28/2016 12:16",
 		"testNewSet" : "MatiasMelendi 8/28/2016 12:16",

@@ -5,4 +5,5 @@ acceptContents: aString
 
 	acceptAction ifNotNil:[acceptAction value: aString].
 	self contents: aString.
+	self textMorph setText: aString.
 	^ true
