@@ -1,5 +1,6 @@
 SystemOrganization addCategory: #ObjectBrowser!
 SystemOrganization addCategory: 'ObjectBrowser-Collections'!
+SystemOrganization addCategory: 'ObjectBrowser-Compatibility'!
 SystemOrganization addCategory: 'ObjectBrowser-Diagrams'!
 SystemOrganization addCategory: 'ObjectBrowser-Errors'!
 SystemOrganization addCategory: 'ObjectBrowser-Filein'!
