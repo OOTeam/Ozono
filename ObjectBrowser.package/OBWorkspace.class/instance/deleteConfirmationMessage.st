@@ -1,3 +1,3 @@
 ui
 deleteConfirmationMessage
-	^'¿Está seguro de eliminar el Workspace?' translated
+	^ '¿Está seguro de eliminar el playground?' translated

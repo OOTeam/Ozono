@@ -1,4 +1,4 @@
 ui
 actionsForAttributeList
 
-	^#(('Eliminar referencia'		deleteVariable))
+	^#(('Eliminar colaborador'		deleteVariable))

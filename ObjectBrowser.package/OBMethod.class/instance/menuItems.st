@@ -1,4 +1,4 @@
 ui
 menuItems
 
-	^#(('Eliminar Metodo' deleteMethod))
+	^#(('Eliminar Método' deleteMethod))

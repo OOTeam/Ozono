@@ -1,8 +1,9 @@
 testing
 emptyCode
 	
-	^ 'messageSelectorAndArgumentNames
-	"comment stating purpose of message"
+	^ 'selectorDelMensaje
+	"comentario del mensaje indicando el propósito del mismo"
 
-	| temporary variable names |
-	statements'
+	| nombre de colaboradores temporales |
+	colaboración1.
+	colaboración2'

@@ -1,3 +1,3 @@
 view
 workspaceButtonLabel
-	^'Abrir Workspace' translated 
+	^'Abrir Playground' translated 

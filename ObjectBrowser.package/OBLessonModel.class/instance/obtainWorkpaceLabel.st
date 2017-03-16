@@ -1,3 +1,3 @@
 showing
 obtainWorkpaceLabel
-	^self request: 'Nombre del workspace' default: 'nuevoWorkspace'.
+	^self request: 'Nombre del playground' default: 'nuevoPlayground'.
