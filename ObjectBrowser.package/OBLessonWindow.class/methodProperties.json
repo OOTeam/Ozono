@@ -2,12 +2,12 @@
 	"class" : {
 		"show:" : "GuillermoPolito 9/11/2010 17:52" },
 	"instance" : {
-		"addNewEditorMorphTo:" : "MatiFreyre 9/4/2014 11:46",
+		"addNewEditorMorphTo:" : "MatiasMelendi 3/17/2017 15:27",
 		"addNewRunAllTestsButtonMorphTo:" : "MatiFreyre 9/4/2014 11:49",
 		"addNewSelectedTestResultMorphTo:" : "MatiFreyre 9/4/2014 20:51",
 		"addNewStatusMorphTo:" : "MatiFreyre 9/4/2014 11:42",
 		"backgroundColorFor:" : "GiselaDecuzzi 12/2/2010 15:55",
-		"buildMethodEditor" : "PabloTesone 2/22/2014 17:11",
+		"buildMethodEditor" : "MatiasMelendi 3/17/2017 15:14",
 		"buildMethodList" : "GuillermoPolito 8/23/2013 11:37",
 		"buildObjectAttributeList" : "GuillermoPolito 8/23/2013 11:37",
 		"buildObjectBrowserTree" : "JavierFernandes 4/18/2014 15:03",

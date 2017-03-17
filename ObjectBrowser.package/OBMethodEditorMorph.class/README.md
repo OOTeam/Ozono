@@ -1,0 +1,1 @@
+An special RubPluggableTextMorph used in Ozono for representing the method edition box.

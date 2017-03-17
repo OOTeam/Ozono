@@ -2,6 +2,8 @@
 	"class" : {
 		"newOn:" : "TestRunner 11/2/2009 03:16" },
 	"instance" : {
+		"announcer" : "MatiasMelendi 3/17/2017 15:25",
+		"interactionModel" : "MatiasMelendi 3/17/2017 15:28",
 		"isCodeCompletionAllowed" : "GuillermoPolito 5/8/2012 16:19",
 		"model" : "TestRunner 11/2/2009 03:16",
 		"model:" : "GAP 11/2/2009 04:25",

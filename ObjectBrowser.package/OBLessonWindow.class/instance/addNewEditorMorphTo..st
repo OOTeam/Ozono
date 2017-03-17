@@ -2,7 +2,7 @@ test-runner
 addNewEditorMorphTo: panel
 	| testEditor hSepFrac testEditorModel |
 	hSepFrac := 0.45.
-	testEditor := (PluggableTextMorph
+	testEditor := (OBMethodEditorMorph
 		on: (testEditorModel := OBTestEditorModel newOn: self objectBrowser)
 		text: #selectedTestCode
 		accept: #acceptCode:notifying:
@@ -11,10 +11,12 @@ addNewEditorMorphTo: panel
 		setNameTo: #textoTest;
 		color: Color white;
 		yourself.
-	testEditor styler workspace: self lesson.
-	testEditor styled: true.
+	testEditor beForSmalltalkCodeWithDefaultFont.
+	testEditor beEditable.
+	testEditor withoutLineNumbers.
+	testEditor withCodeSizeFeedback.
 	self objectBrowser addTestSelectionInterested: testEditor.
-	testEditorModel testEditorMorph: methodEditor.
+	testEditorModel testEditorMorph: testEditor.
 
 	panel
 		addMorph:

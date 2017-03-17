@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-UILesson",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MatiasMelendi 3/17/2017 14:55",
+	"instvars" : [
+		 ],
+	"name" : "OBMethodEditorMorph",
+	"pools" : [
+		 ],
+	"super" : "RubPluggableTextMorph",
+	"type" : "normal" }
