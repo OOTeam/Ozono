@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "OBUndeclaredVariable",
+	"name" : "OBUndeclaredVariableWarningForTests",
 	"pools" : [
 		 ],
-	"super" : "UndeclaredVariable",
+	"super" : "OBUndeclaredVariableWarning",
 	"type" : "normal" }

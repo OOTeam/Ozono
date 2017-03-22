@@ -11,7 +11,9 @@ openMenuIn: aBlock
 		ifTrue: [ labels add: 'Declarar nuevo colaborador temporal'.
 			actions add: [ self declareTempAndPaste: name ].
 			labels add: 'Declarar nuevo colaborador interno'.
-			actions add: [ self declareInstVar: name ]].
+			actions add: [ self declareInstVar: name ].
+			labels add: 'Crear nuevo objeto'.
+			actions add: [ self createNewOBObjectWithName: name ] ].
 	lines add: labels size.
 	alternatives
 		do: [ :each | 
