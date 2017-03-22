@@ -1,0 +1,14 @@
+{
+	"category" : "ObjectBrowser-UI-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model" ],
+	"name" : "OBUndeclaredVariableWarning",
+	"pools" : [
+		 ],
+	"super" : "OCUndeclaredVariableWarning",
+	"type" : "normal" }
