@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfObjectBrowser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfObjectBrowser",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
