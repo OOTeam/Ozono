@@ -6,4 +6,5 @@ baseline: spec
 		spec blessing: #baseline.
 		spec
 			package: 'ConfigurationOfObjectBrowser';
+			package: 'ObjectBrowser';
 			postLoadDoIt: #loadConfiguration. ]
