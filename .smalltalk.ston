@@ -1,0 +1,17 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #configuration : 'ObjectBrowser',
+      #directory : '/',
+      #onWarningLog : true,
+      #useLatestMetacello : true,
+      #platforms : [ #pharo ],
+      #version : '3.1'
+    }
+  ],
+  #testing : {
+    #include : {
+      #packages : ['ObjectBrowser-Test']
+    }
+  }
+}
