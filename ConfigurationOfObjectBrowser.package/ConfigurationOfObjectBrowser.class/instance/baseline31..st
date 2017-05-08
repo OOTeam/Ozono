@@ -5,7 +5,7 @@ baseline31: spec
 		for: #common
 		do: [ 
 			spec blessing: #baseline.
-			spec repository: 'https://github.com/OOTeam/Ozono.git'.
+			spec repository: 'git@github.com:OOTeam/Ozono.git:master'.
 			spec
 				project: 'smallUML'
 					with: [ 
